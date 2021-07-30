@@ -1,0 +1,64 @@
+{
+	"basics": {
+		"name": "Nimish Dhawan",
+		"label": "Student",
+		"picture": "https://avatars.githubusercontent.com/u/83180907?v=4",
+		"email": "2020kucp1124@iiitkota.ac.in",
+		"phone": "9897067960",
+		"summary": "I am great learner and put a constant effort in improving myself. I never shy away from responsibility and am up for any kind of work.",
+		"location": {
+			"address": "Agra",
+			"postalCode": "282004",
+			"city": "Agra",
+			"countryCode": "India",
+			"region": "Uttar Pradesh"
+		},
+		"profiles": [
+			{
+				"network": "Github",
+				"username": "Nimish-Dhawan100",
+				"url": "https://github.com/Nimish-Dhawan100/"
+			},
+			{
+				"network": "linkedin",
+				"username": "nimish-dhawan-41187a210",
+				"url": "https://www.linkedin.com/in/nimish-dhawan-41187a210/"
+			},
+			{
+				"network": "Instagram",
+				"username": "nimish_the_one",
+				"url": "https://www.instagram.com/nimish_the_one/"
+			}
+		]
+	},
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "2020-02-12 //Date",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	"skills": [
+        {
+		"level": "Intermediate",
+		"keywords": ["HTML", "CSS", "C/C++"]
+	},
+        {
+		"level": "Beginner",
+		"keywords": ["Java","Javascript" ]
+	}
+],
+	"interests": [
+        {
+		"name": "Sports",
+		"keywords": ["Chess", "Badminton"]
+	},
+        {
+		"name": "Singing",
+		"keywords": ["Singing"]
+	}
+],
+	"references": []
+}
